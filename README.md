@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/bsrahmat/ebook-06/blob/main/EBook06_Simaset.pdf" target="_blank">EBook06_Simaset.pdf</a>
 
-- <a href="" target="_blank"></a>
+- <a href="https://www.academia.edu/117641143" target="_blank">https://www.academia.edu/117641143</a>
 
 - <a href="" target="_blank"></a>
 
