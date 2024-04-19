@@ -25,6 +25,12 @@
 
 <br>
 
+### The complete source code for the programs in this book can be downloaded here:
+
+- <a href="https://github.com/bsrahmat/simaset" target="_blank">https://github.com/bsrahmat/simaset</a>
+
+<br>
+
 ### Bib-tex file to cite this book:
 
 - <a href="https://github.com/bsrahmat/ebook-06/blob/main/EBook06_Simaset.bib" target="_blank">EBook06_Simaset.bib</a>
